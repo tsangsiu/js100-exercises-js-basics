@@ -1,0 +1,6 @@
+The Array.prototype.join() method expects 0 or 1 argument.
+
+The argument specifies a string to separate each pair of adjacent elements of 
+the array. The separator is converted to a string if necessary. If omitted, the 
+array elements are separated with a comma (","). If there are excess arugments 
+passed to the method, they are ignored.

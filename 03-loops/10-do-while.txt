@@ -1,0 +1,3 @@
+The while loop checks the looping condition before running the code block, while 
+the do...while loop checks it after running the code block. Therefore the code 
+block in the do...while loop will run at least once.

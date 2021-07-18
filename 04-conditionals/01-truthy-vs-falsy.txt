@@ -1,0 +1,8 @@
+false
+0
+null
+undefined
+''
+NaN  // i miss this one
+-0 (negative zero)
+0n (BigInt zero)
